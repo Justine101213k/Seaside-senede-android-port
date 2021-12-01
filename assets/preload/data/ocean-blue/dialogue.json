@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "admire",
+			"text": "Wha-where are we?",
+			"boxState": "normal",
+			"portrait": "bf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "One step closer to the climax!",
+			"boxState": "normal",
+			"portrait": "gf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "admire",
+			"text": "Wow... It's so beautiful down here...'",
+			"boxState": "normal",
+			"portrait": "bf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Just wait till we start singing down here in the ocean!",
+			"boxState": "normal",
+			"portrait": "gf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "The sea creatures love it when two hearts sing together!",
+			"boxState": "normal",
+			"portrait": "gf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "flirt",
+			"text": "And this coral bed is perfect for having a little fun! hee hee!",
+			"boxState": "normal",
+			"portrait": "gf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "thinkNervousSmile",
+			"text": "(Oh God! She's actually serious!)",
+			"boxState": "normal",
+			"portrait": "bf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "thinkNervousSmile",
+			"text": "(But I never did this with a mermaid before...)",
+			"boxState": "normal",
+			"portrait": "bf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "nervoussmile",
+			"text": "Y-yeah for sure!",
+			"boxState": "normal",
+			"portrait": "bf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "flirt",
+			"text": "Now it's YOUR turn to start the serenade!",
+			"boxState": "normal",
+			"portrait": "gf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "flirt",
+			"text": "Give it to me, Boyfriend!",
+			"boxState": "normal",
+			"portrait": "gf_sss",
+			"speed": 0.05
+		}
+	]
+}

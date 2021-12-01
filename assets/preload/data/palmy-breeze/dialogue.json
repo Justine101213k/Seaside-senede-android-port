@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "A human?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "happy",
+			"text": "My, what a lovely surprise! I love it when I get to meet new humans!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "happy",
+			"text": "And a very cute-looking one at that!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh! Uh- Yep! Human! Right in front of your eyes!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "thinkNervousSmile",
+			"text": "(God, she's hot!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "thinkNervousSmile",
+			"text": "(It's getting a little hard...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey! You wanna sing with me? Your voice sounds really cute too!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "nervoussmile",
+			"text": "OIushuheshasahhhhh-HELL YEAH!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "happy",
+			"text": "Hee hee! Don't be nervous!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "happy",
+			"text": "Just relax and follow my lead!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		}
+	]
+}

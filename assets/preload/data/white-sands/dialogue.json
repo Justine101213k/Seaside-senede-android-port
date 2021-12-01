@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Hee hee! That was fun!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "happy",
+			"text": "The animals loved it too!",
+			"boxState": "normal",
+			"portrait": "gf_sss",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Totally!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "talk",
+			"text": "Wanna sing another one?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "talk",
+			"text": "Anything for you, beautiful!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "thinkNervousSmile",
+			"text": "(Wait...Did I just say that out loud?...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Oh my god! We were so amazing!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "talk",
+			"text": "You bet your ass we were!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "flirt",
+			"text": "I think it's about time we get a little frisky, don't you think?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "talk",
+			"text": "Hell yeah!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "flirt",
+			"text": "Come closer!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm all yours!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "nervoussmile",
+			"text": "But... I DO have one question though...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeeeessssssss?????",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf_sss"
+		},
+		{
+			"expression": "thinkNervousSmile",
+			"text": "........ ",
+			"boxState": "normal",
+			"speed": 0.09,
+			"portrait": "bf_sss"
+		},
+		{
+			"expression": "nervoussmile",
+			"text": "Where do I plug it in?...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_sss"
+		}
+	]
+}
