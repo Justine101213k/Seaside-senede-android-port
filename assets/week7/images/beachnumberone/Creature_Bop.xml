@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Creature_Bop.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Creature_Bop instance 10000" x="0" y="3" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10001" x="0" y="235" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10002" x="0" y="467" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10003" x="0" y="699" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10004" x="0" y="931" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10005" x="0" y="1163" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10006" x="0" y="1395" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10007" x="0" y="1395" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10008" x="0" y="1395" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10009" x="0" y="1395" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10010" x="0" y="1395" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10011" x="0" y="1395" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10012" x="0" y="1395" width="1429" height="227"/>
+	<SubTexture name="Creature_Bop instance 10013" x="0" y="1395" width="1429" height="227"/>
+</TextureAtlas>

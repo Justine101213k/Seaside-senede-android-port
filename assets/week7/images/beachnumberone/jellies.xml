@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jellies.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jellyfish_go_brrrrr instance 10000" x="0" y="0" width="407" height="364"/>
+	<SubTexture name="jellyfish_go_brrrrr instance 10001" x="412" y="0" width="407" height="364"/>
+	<SubTexture name="jellyfish_go_brrrrr instance 10002" x="412" y="0" width="407" height="364"/>
+	<SubTexture name="jellyfish_go_brrrrr instance 10003" x="0" y="369" width="407" height="364"/>
+	<SubTexture name="jellyfish_go_brrrrr instance 10004" x="0" y="369" width="407" height="364"/>
+	<SubTexture name="jellyfish_go_brrrrr instance 10005" x="0" y="369" width="407" height="364"/>
+	<SubTexture name="jellyfish_go_brrrrr instance 10006" x="412" y="369" width="407" height="364"/>
+	<SubTexture name="jellyfish_go_brrrrr instance 10007" x="0" y="0" width="407" height="364"/>
+</TextureAtlas>

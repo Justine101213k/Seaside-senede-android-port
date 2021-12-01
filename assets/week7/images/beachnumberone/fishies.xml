@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fishies.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="feesh instance 10000" x="0" y="0" width="416" height="314" frameX="0" frameY="-3" frameWidth="416" frameHeight="320"/>
+	<SubTexture name="feesh instance 10001" x="0" y="0" width="416" height="314" frameX="0" frameY="-3" frameWidth="416" frameHeight="320"/>
+	<SubTexture name="feesh instance 10002" x="421" y="0" width="416" height="313" frameX="0" frameY="-7" frameWidth="416" frameHeight="320"/>
+	<SubTexture name="feesh instance 10003" x="421" y="0" width="416" height="313" frameX="0" frameY="-7" frameWidth="416" frameHeight="320"/>
+	<SubTexture name="feesh instance 10004" x="0" y="0" width="416" height="314" frameX="0" frameY="-3" frameWidth="416" frameHeight="320"/>
+	<SubTexture name="feesh instance 10005" x="0" y="0" width="416" height="314" frameX="0" frameY="-3" frameWidth="416" frameHeight="320"/>
+	<SubTexture name="feesh instance 10006" x="0" y="319" width="416" height="314" frameX="0" frameY="0" frameWidth="416" frameHeight="320"/>
+	<SubTexture name="feesh instance 10007" x="0" y="319" width="416" height="314" frameX="0" frameY="0" frameWidth="416" frameHeight="320"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Beach.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beach instance 10000" x="0" y="0" width="2363" height="748"/>
+	<SubTexture name="beach instance 10001" x="0" y="0" width="2363" height="748"/>
+	<SubTexture name="beach instance 10002" x="2368" y="0" width="2363" height="748"/>
+	<SubTexture name="beach instance 10003" x="2368" y="0" width="2363" height="748"/>
+	<SubTexture name="beach instance 10004" x="4736" y="0" width="2363" height="748"/>
+	<SubTexture name="beach instance 10005" x="4736" y="0" width="2363" height="748"/>
+	<SubTexture name="beach instance 10006" x="0" y="753" width="2363" height="748"/>
+	<SubTexture name="beach instance 10007" x="0" y="753" width="2363" height="748"/>
+	<SubTexture name="beach instance 10008" x="2368" y="753" width="2363" height="748"/>
+	<SubTexture name="beach instance 10009" x="2368" y="753" width="2363" height="748"/>
+	<SubTexture name="beach instance 10010" x="4736" y="753" width="2363" height="748"/>
+	<SubTexture name="beach instance 10011" x="4736" y="753" width="2363" height="748"/>
+	<SubTexture name="beach instance 10012" x="0" y="1506" width="2363" height="748"/>
+	<SubTexture name="beach instance 10013" x="0" y="1506" width="2363" height="748"/>
+	<SubTexture name="beach instance 10014" x="0" y="1506" width="2363" height="748"/>
+	<SubTexture name="beach instance 10015" x="2368" y="1506" width="2363" height="748"/>
+	<SubTexture name="beach instance 10016" x="2368" y="1506" width="2363" height="748"/>
+	<SubTexture name="beach instance 10017" x="4736" y="1506" width="2363" height="748"/>
+	<SubTexture name="beach instance 10018" x="4736" y="1506" width="2363" height="748"/>
+	<SubTexture name="beach instance 10019" x="0" y="2259" width="2363" height="748"/>
+	<SubTexture name="beach instance 10020" x="0" y="2259" width="2363" height="748"/>
+	<SubTexture name="beach instance 10021" x="2368" y="2259" width="2363" height="748"/>
+	<SubTexture name="beach instance 10022" x="2368" y="2259" width="2363" height="748"/>
+	<SubTexture name="beach instance 10023" x="4736" y="2259" width="2363" height="748"/>
+	<SubTexture name="beach instance 10024" x="4736" y="2259" width="2363" height="748"/>
+	<SubTexture name="beach instance 10025" x="0" y="3012" width="2363" height="748"/>
+	<SubTexture name="beach instance 10026" x="0" y="3012" width="2363" height="748"/>
+	<SubTexture name="beach instance 10027" x="2368" y="3012" width="2363" height="748"/>
+	<SubTexture name="beach instance 10028" x="2368" y="3012" width="2363" height="748"/>
+	<SubTexture name="beach instance 10029" x="2368" y="3012" width="2363" height="748"/>
+	<SubTexture name="beach instance 10030" x="4736" y="3012" width="2363" height="748"/>
+	<SubTexture name="beach instance 10031" x="4736" y="3012" width="2363" height="748"/>
+	<SubTexture name="beach instance 10032" x="0" y="3765" width="2363" height="748"/>
+	<SubTexture name="beach instance 10033" x="0" y="3765" width="2363" height="748"/>
+</TextureAtlas>
