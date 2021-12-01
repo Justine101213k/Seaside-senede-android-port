@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-90,
+		20
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-4,
+				-14.5
+			],
+			"loop_name": "BF Normal",
+			"idle_name": "BF Idle Normal"
+		},
+		{
+			"idle_offsets": [
+				-4,
+				-14.5
+			],
+			"anim": "nervoussmile",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF Idle NervousSmile",
+			"loop_name": "BF NervousSmile"
+		},
+		{
+			"idle_offsets": [
+				-4.5,
+				-14
+			],
+			"anim": "thinkNormal",
+			"loop_offsets": [
+				-2,
+				-6
+			],
+			"idle_name": "BF Idle Normal",
+			"loop_name": "BF normalThink"
+		},
+		{
+			"idle_offsets": [
+				-4.5,
+				-14
+			],
+			"anim": "thinkNervousSmile",
+			"loop_offsets": [
+				-2,
+				-6
+			],
+			"idle_name": "BF Idle NervousSmile",
+			"loop_name": "BF nervousSmileThink"
+		},
+		{
+			"loop_name": "BF Admire",
+			"idle_offsets": [
+				-4,
+				-14.5
+			],
+			"idle_name": "BF Idle Admire",
+			"anim": "admire",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "BF_SSS_Dialogue"
+}

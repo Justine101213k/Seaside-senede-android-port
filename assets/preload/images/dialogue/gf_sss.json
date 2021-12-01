@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		130,
+		0
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-2.5,
+				-10
+			],
+			"loop_name": "GF Normal",
+			"idle_name": "GF Idle Normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				-2.5,
+				-10
+			],
+			"loop_name": "GF Happy",
+			"idle_name": "GF Idle Happy"
+		},
+		{
+			"loop_name": "GF Flirt",
+			"idle_offsets": [
+				-2.5,
+				-10
+			],
+			"idle_name": "GF Idle Flirt",
+			"anim": "flirt",
+			"loop_offsets": [
+				0,
+				8
+			]
+		}
+	],
+	"image": "GF_SSS_Dialogue"
+}
