@@ -1,0 +1,48 @@
+{
+	"storyName": "Seaside Serenade",
+	"hideFreeplay": false,
+	"weekBackground": "beachOne",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Palmy Breeze",
+			"gf-sss",
+			[
+				79,
+				228,
+				255
+			]
+		],
+		[
+			"White Sands",
+			"gf-sss",
+			[
+				79,
+				228,
+				255
+			]
+		],
+		[
+			"Ocean Blue",
+			"gf-sss",
+			[
+				79,
+				228,
+				255
+			]
+		]
+	],
+	"weekName": "Mermaid"
+}
