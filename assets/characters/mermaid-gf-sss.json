@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				97
+			],
+			"anim": "teleport",
+			"fps": 24,
+			"name": "GF Teleport",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_SSS",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "gf-sss",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		97
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
