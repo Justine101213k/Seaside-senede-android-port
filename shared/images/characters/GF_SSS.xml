@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_SSS.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Down Note0000" x="1" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0001" x="1" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0002" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0003" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0004" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0005" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0006" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0007" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0008" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0009" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0010" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0011" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0012" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0013" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Down Note0014" x="491" y="1" width="468" height="476"/>
+	<SubTexture name="GF Idle Dance0000" x="981" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0001" x="981" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0002" x="1471" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0003" x="1471" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0004" x="1961" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0005" x="1961" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0006" x="2451" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0007" x="2451" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0008" x="2941" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0009" x="2941" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0010" x="2941" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0011" x="2941" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0012" x="2941" y="1" width="468" height="482"/>
+	<SubTexture name="GF Idle Dance0013" x="2941" y="1" width="468" height="482"/>
+	<SubTexture name="GF Left Note0000" x="3431" y="1" width="468" height="485"/>
+	<SubTexture name="GF Left Note0001" x="3431" y="1" width="468" height="485"/>
+	<SubTexture name="GF Left Note0002" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0003" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0004" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0005" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0006" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0007" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0008" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0009" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0010" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0011" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0012" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0013" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Left Note0014" x="1" y="508" width="468" height="485"/>
+	<SubTexture name="GF Right Note0000" x="491" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0001" x="491" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0002" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0003" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0004" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0005" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0006" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0007" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0008" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0009" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0010" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0011" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0012" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0013" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Right Note0014" x="981" y="508" width="468" height="482"/>
+	<SubTexture name="GF Teleport0000" x="1471" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0001" x="1471" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0002" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0003" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0004" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0005" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0006" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0007" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0008" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0009" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0010" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0011" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0012" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0013" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0014" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0015" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0016" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0017" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0018" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0019" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0020" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0021" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0022" x="1984" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0023" x="2497" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0024" x="2497" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0025" x="3010" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0026" x="3010" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0027" x="3523" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0028" x="3523" y="508" width="491" height="579"/>
+	<SubTexture name="GF Teleport0029" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0030" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0031" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0032" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0033" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0034" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0035" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0036" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0037" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0038" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0039" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0040" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0041" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0042" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0043" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0044" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0045" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0046" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0047" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0048" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0049" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0050" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0051" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0052" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0053" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0054" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0055" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0056" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0057" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0058" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0059" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0060" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0061" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0062" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0063" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0064" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0065" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0066" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0067" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0068" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0069" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0070" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0071" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0072" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0073" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0074" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0075" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0076" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0077" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0078" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0079" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0080" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0081" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0082" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0083" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0084" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0085" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0086" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0087" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0088" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0089" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0090" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0091" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0092" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0093" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0094" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0095" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0096" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0097" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0098" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0099" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0100" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0101" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0102" x="1" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0103" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0104" x="514" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0105" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Teleport0106" x="1027" y="1109" width="491" height="579"/>
+	<SubTexture name="GF Up Note0000" x="1540" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0001" x="1540" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0002" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0003" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0004" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0005" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0006" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0007" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0008" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0009" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0010" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0011" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0012" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0013" x="2030" y="1109" width="468" height="498"/>
+	<SubTexture name="GF Up Note0014" x="2030" y="1109" width="468" height="498"/>
+</TextureAtlas>

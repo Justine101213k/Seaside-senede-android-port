@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_SSS_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Flirt0000" x="1" y="1" width="440" height="659"/>
+	<SubTexture name="GF Flirt0001" x="1" y="1" width="440" height="659"/>
+	<SubTexture name="GF Flirt0002" x="446" y="1" width="440" height="659"/>
+	<SubTexture name="GF Flirt0003" x="446" y="1" width="440" height="659"/>
+	<SubTexture name="GF Flirt0004" x="891" y="1" width="440" height="659"/>
+	<SubTexture name="GF Flirt0005" x="891" y="1" width="440" height="659"/>
+	<SubTexture name="GF Happy0000" x="1336" y="1" width="432" height="649"/>
+	<SubTexture name="GF Happy0001" x="1336" y="1" width="432" height="649"/>
+	<SubTexture name="GF Happy0002" x="1" y="665" width="432" height="649"/>
+	<SubTexture name="GF Happy0003" x="1" y="665" width="432" height="649"/>
+	<SubTexture name="GF Happy0004" x="438" y="665" width="432" height="649"/>
+	<SubTexture name="GF Happy0005" x="438" y="665" width="432" height="649"/>
+	<SubTexture name="GF Idle Flirt0000" x="875" y="665" width="429" height="637"/>
+	<SubTexture name="GF Idle Happy0000" x="1309" y="665" width="429" height="637"/>
+	<SubTexture name="GF Idle Normal0000" x="1" y="1319" width="429" height="637"/>
+	<SubTexture name="GF Normal0000" x="435" y="1319" width="432" height="649"/>
+	<SubTexture name="GF Normal0001" x="435" y="1319" width="432" height="649"/>
+	<SubTexture name="GF Normal0002" x="872" y="1319" width="432" height="649"/>
+	<SubTexture name="GF Normal0003" x="872" y="1319" width="432" height="649"/>
+	<SubTexture name="GF Normal0004" x="1309" y="1319" width="432" height="649"/>
+	<SubTexture name="GF Normal0005" x="1309" y="1319" width="432" height="649"/>
+</TextureAtlas>

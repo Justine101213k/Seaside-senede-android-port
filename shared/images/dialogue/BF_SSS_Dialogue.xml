@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_SSS_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Admire0000" x="1" y="1" width="504" height="553"/>
+	<SubTexture name="BF Admire0001" x="1" y="1" width="504" height="553"/>
+	<SubTexture name="BF Admire0002" x="510" y="1" width="504" height="553"/>
+	<SubTexture name="BF Admire0003" x="510" y="1" width="504" height="553"/>
+	<SubTexture name="BF Admire0004" x="1019" y="1" width="504" height="553"/>
+	<SubTexture name="BF Admire0005" x="1528" y="1" width="504" height="553"/>
+	<SubTexture name="BF Idle Admire0000" x="2037" y="1" width="487" height="535"/>
+	<SubTexture name="BF Idle Admire0001" x="2037" y="1" width="487" height="535"/>
+	<SubTexture name="BF Idle Admire0002" x="2529" y="1" width="487" height="535"/>
+	<SubTexture name="BF Idle Admire0003" x="2529" y="1" width="487" height="535"/>
+	<SubTexture name="BF Idle NervousSmile0000" x="3021" y="1" width="487" height="535"/>
+	<SubTexture name="BF Idle Normal0000" x="3513" y="1" width="487" height="535"/>
+	<SubTexture name="BF NervousSmile0000" x="1" y="559" width="504" height="553"/>
+	<SubTexture name="BF NervousSmile0001" x="1" y="559" width="504" height="553"/>
+	<SubTexture name="BF NervousSmile0002" x="510" y="559" width="504" height="553"/>
+	<SubTexture name="BF NervousSmile0003" x="510" y="559" width="504" height="553"/>
+	<SubTexture name="BF NervousSmile0004" x="1019" y="559" width="504" height="553"/>
+	<SubTexture name="BF NervousSmile0005" x="1019" y="559" width="504" height="553"/>
+	<SubTexture name="BF Normal0000" x="1528" y="559" width="504" height="553"/>
+	<SubTexture name="BF Normal0001" x="1528" y="559" width="504" height="553"/>
+	<SubTexture name="BF Normal0002" x="2037" y="559" width="504" height="553"/>
+	<SubTexture name="BF Normal0003" x="2037" y="559" width="504" height="553"/>
+	<SubTexture name="BF Normal0004" x="2546" y="559" width="504" height="553"/>
+	<SubTexture name="BF Normal0005" x="2546" y="559" width="504" height="553"/>
+	<SubTexture name="BF nervousSmileThink0000" x="3055" y="559" width="497" height="545"/>
+	<SubTexture name="BF nervousSmileThink0001" x="3055" y="559" width="497" height="545"/>
+	<SubTexture name="BF nervousSmileThink0002" x="3557" y="559" width="497" height="545"/>
+	<SubTexture name="BF nervousSmileThink0003" x="3557" y="559" width="497" height="545"/>
+	<SubTexture name="BF nervousSmileThink0004" x="1" y="1117" width="497" height="545"/>
+	<SubTexture name="BF nervousSmileThink0005" x="1" y="1117" width="497" height="545"/>
+	<SubTexture name="BF normalThink0000" x="503" y="1117" width="497" height="545"/>
+	<SubTexture name="BF normalThink0001" x="503" y="1117" width="497" height="545"/>
+	<SubTexture name="BF normalThink0002" x="1005" y="1117" width="497" height="545"/>
+	<SubTexture name="BF normalThink0003" x="1005" y="1117" width="497" height="545"/>
+	<SubTexture name="BF normalThink0004" x="1507" y="1117" width="497" height="545"/>
+	<SubTexture name="BF normalThink0005" x="1507" y="1117" width="497" height="545"/>
+</TextureAtlas>
